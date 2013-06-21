@@ -1,4 +1,4 @@
-greatandpowerfulos
-==================
+Great-and-Powerful-Os
+=====================
 
-Minecraft Texture :D Enjoy!
+Texture for our minecraft server
